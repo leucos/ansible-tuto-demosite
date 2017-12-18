@@ -8,7 +8,7 @@
 
   <p> App backend <?=gethostname()?> </p>
 
-    <img src="http://placekitten.com.s3.amazonaws.com/homepage-samples/408/287.jpg" />
+    <img src="https://images.pexels.com/photos/75897/pexels-photo-75897.jpeg" />
   </body>
 </html>
 
