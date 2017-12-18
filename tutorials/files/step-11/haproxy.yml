@@ -1,3 +1,5 @@
+- hosts: web
+      
 - hosts: haproxy
   tasks:
     - name: Installs haproxy load balancer
