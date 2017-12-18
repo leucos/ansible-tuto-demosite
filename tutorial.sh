@@ -1,5 +1,7 @@
 #!/bin/bash
+
 BASEDIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+echo $BASEDIR
 
 NOF_HOSTS=3
 NETWORK_NAME="ansible.tutorial"

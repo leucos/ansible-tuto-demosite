@@ -34,7 +34,7 @@
           when: result|failed
 
         - name: Deploy our awesome application
-          git: repo=https://github.com/leucos/ansible-tuto-demosite.git dest=/var/www/awesome-app
+          git: repo=https://github.com/danwerspb/ansible-tuto-demosite.git dest=/var/www/awesome-app
           tags: deploy
 
         - name: Deactivates the default virtualhost
