@@ -8,7 +8,7 @@
 
   <p> App backend <?=gethostname()?> </p>
 
-    <img src="https://images.pexels.com/photos/75897/pexels-photo-75897.jpeg" />
+    <img src="https://uproxx.files.wordpress.com/2015/12/bender-futurama.jpg?quality=100&w=650" />
   </body>
 </html>
 
